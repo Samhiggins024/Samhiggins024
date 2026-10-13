@@ -13,7 +13,7 @@ Student @ University of North Alabama
 
 ## Tennis Tap
 
-This is a simple game that requires little thinking but quick reaction. Tennis balls fall from the sky and you have you stop them from hitting the ground. For every ball you hit you earn a point. If the ball hits the ground you lose. The goal is to get as many points as you can! The app includes two versions: Concept, which demonstrates the basic game idea, and Full Game, which provides the completed gameplay experience.
+This is a simple HTML game that requires little thinking but quick reaction.
 
 -[Play Tennis Tap](https://samhiggins024.github.io/dev-charlie/)
 -[View Repository](https://github.com/Samhiggins024/dev-charlie)
